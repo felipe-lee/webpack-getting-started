@@ -22,7 +22,6 @@ target/
 nbproject/private/
 build/
 nbbuild/
-dist/
 nbdist/
 .nb-gradle/
 
@@ -31,7 +30,6 @@ youtubebot
 
 .DS_Store
 /node_modules
-/dist
 
 # local env files
 .env.local
