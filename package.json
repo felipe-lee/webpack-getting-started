@@ -1,10 +1,14 @@
 {
-  "name": "webpack",
+  "name": "webpack-getting-started",
   "version": "1.0.0",
-  "description": "",
+  "description": "Repo to keep track of files as I go through this [webpack tutorial](https://webpack.js.org/guides/getting-started/).",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "p-github:felipe-lee/webpack-getting-started.git"
   },
   "keywords": [],
   "author": "",
